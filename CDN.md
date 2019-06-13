@@ -4,3 +4,5 @@
 
 * [CDN加速域名https中级CA证书的配置](https://help.aliyun.com/knowledge_detail/40094.html?spm=a2c4g.11186623.2.13.23043f62IIjPBJ)
 * [配置HTTPS证书](https://help.aliyun.com/document_detail/27118.html?spm=a2c4g.11186623.2.19.265a2292cNfOIR#concept-rns-qvk-xdb)
+* [如何制作CSR(Certificate Signing Request，简称 CSR)文件？](https://help.aliyun.com/knowledge_detail/42218.html?spm=5176.10695662.1996646101.searchclickresult.353133aaFfrs86)
+* [CSR SAN(Subject Alternative Name)](https://geekflare.com/san-ssl-certificate/)
