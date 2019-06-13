@@ -13,7 +13,7 @@ Generate CSR(Subject Alternative Name) with openssl configurations
 
 Check generated CSR in with previous command
 
-`openssl.exe req  -nodes -newkey rsa:2048 -keyout myprivate.key -out mydomain.csr -config openssl_san.cnf`
+`openssl.exe req  -in mydomain.csr -noout -text`
 
 [openssl_san.conf](openssl_san.cnf)
 
